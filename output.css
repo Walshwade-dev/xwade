@@ -2633,6 +2633,11 @@ video {
   color: limegreen;
 }
 
+.tweet.selected {
+  background-color: #f0f0f0;
+  /* Lighter gray background for selected tweet */
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
